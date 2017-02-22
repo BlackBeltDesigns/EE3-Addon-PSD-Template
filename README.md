@@ -1,6 +1,11 @@
 # EE3-Addon-PSD-Template
 This is a PSD template for constructing mock ups for addon ideas
 
+![alt text](https://pledgie.com/assets/campaigns/33428/medium/Pledgie.jpg?1487801089 "EE3 PSD Template")
+
+<a href='https://pledgie.com/campaigns/33428'><img alt='Click here to lend your support to: ExpressionEngine 3 Addon PSD Template File and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/33428.png?skin_name=chrome' border='0' ></a>
+
+
 # Instructions : 
 
 I always find it best to create a new folder for the project screen I am working on and build from within it. You don’t have to use this in the same way, but it helps from accidentally overwriting a core element.
